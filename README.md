@@ -72,14 +72,15 @@
 
   ### 👾 My GitHub Stats 👾
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sibghatullah-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sibghatullah-1&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibghatullah-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sibghatullah-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
+###
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/sibghatullah-1/sibghatullah-1/snake-output/snake.svg" alt="Snake animation" />
