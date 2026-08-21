@@ -74,7 +74,17 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sibghatullah-1/sibghatullah-1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <div align="center">
+
+  ### 👾 My GitHub Stats 👾
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
   <img src="https://raw.githubusercontent.com/sibghatullah-1/sibghatullah-1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
