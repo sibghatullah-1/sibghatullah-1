@@ -76,7 +76,7 @@
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibghatulah-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibghatullah-1&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
